@@ -14,4 +14,4 @@ class Solution(object):
                 return True
             power *= 4
         return False
-        
+    
