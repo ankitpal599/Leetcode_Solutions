@@ -21,6 +21,6 @@ class Solution(object):
                 total -= values[s[i]]
             else:
                 total += values[s[i]]
-        return total 
+        return total
 
  
