@@ -10,4 +10,4 @@ class Solution(object):
             if n in unique_number:
                 return True
             unique_number.add(n)
-        return False        
+        return False       
