@@ -16,4 +16,4 @@ class Solution(object):
         for letter in columnTitle:
             value = ord(letter) - ord('A') + 1
             result = result * 26 + value
-        return result
+        return result 
