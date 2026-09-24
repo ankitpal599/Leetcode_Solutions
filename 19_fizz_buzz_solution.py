@@ -15,7 +15,7 @@ class Solution(object):
               answer.append("FizzBuzz")  
            elif i%3 == 0:  
               answer.append("Fizz")  
-           elif i%5 == 0:  
+           elif i%5 == 0: 
               answer.append("Buzz")  
            else:  
               answer.append(str(i))  
